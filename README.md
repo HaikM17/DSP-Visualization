@@ -1,5 +1,9 @@
 # DSP-Visualization
 
+The following shows examples of ways that python can be utilized to visually display digital signal processing in one dimension (sound)
+and two dimensions (images).
+
+
 ## One Dimension 
 
 ![](Results/1-D%20signal.png)
