@@ -4,13 +4,16 @@
 
    **Figure shows a generated one dimensional signal**
    
-   
-
+.   
+.   
+.
 ![](Results/FFT.png)
 
   **Figure shows the FFT of the signal, displaying both the amplitude and phase against frequency**
 
-
+.
+.
+.
 
 ![](Results/inv_ft.png)
   **Figure shows the inverse fourier transform of the signal**
