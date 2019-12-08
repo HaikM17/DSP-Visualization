@@ -17,6 +17,7 @@
 .
 
 ![](Results/inv_ft.png)
+
   **Figure shows the inverse fourier transform of the signal**
   .
   .
@@ -25,16 +26,19 @@
 
 ![](Results/complex_sig.png)
 
- **Figure shows the a complex signal; more complex signals will show a more complex 
+ **Figure shows a complex signal; more complex signals will show a more complex 
 pattern of amplitudes and phasessignal**
 
 ![](Results/inv_fft.png)
+
 **Inverse FFT of the signal.**
 **This is how MP3 compression works: components that are 
 less relevant (e.g. low amplitude, or low sensitivity to its frequency) 
 are removed from the Fourier transform to reduce the total amount of 
 data that needs to be saved.**
-
+.
+.
+.
 
 ![](Images/lake.jpg)
 ![](Results/lake_lp_filter.png)
