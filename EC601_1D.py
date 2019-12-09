@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec  7 18:37:08 2019
-
 @author: haikm
 """
 
