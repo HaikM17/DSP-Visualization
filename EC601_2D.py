@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec  7 19:01:54 2019
-
 @author: haikm
 """
 import os, json, io
